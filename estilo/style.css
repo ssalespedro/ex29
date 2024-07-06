@@ -35,7 +35,7 @@ section#login{
     overflow: hidden;
     background-color: white;
     width: 250px;
-    height: 500px;
+    height: 515px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
 
@@ -58,10 +58,6 @@ section#login > div#formulario{
     
 }
 
-.campo{
-    width: 60vw;
-    display: flex;
-}
 
 div#formulario > h1{
     text-align: center;
@@ -71,6 +67,15 @@ div#formulario > h1{
 div#formulario > p{
     font-size: 0.8em;
 
+}
+
+form > div.campo{
+    background-color: darkcyan;
+    display: flex;
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    margin: 5px 0px;
 }
 
 div#formulario > h1{
