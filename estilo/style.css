@@ -60,7 +60,7 @@ section#login > div#formulario{
 
 .campo{
     width: 100vw;
-    display: inline-block;
+    display: flex;
 }
 
 div#formulario > h1{
