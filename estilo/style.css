@@ -59,7 +59,7 @@ section#login > div#formulario{
 }
 
 .campo{
-    width: 100vw;
+    width: 60vw;
     display: flex;
 }
 
