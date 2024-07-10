@@ -71,13 +71,16 @@ div#formulario > p{
 
 form > div.campo{
     background-color: darkcyan;
-    display: block;
+    display: flex;
     width: 100%;
     height: 40px;
     border-radius: 5px;
     margin: 5px 0px;
     text-align: center;
+    align-items: center;
+    position: relative;
 }
+
 
 div#formulario > h1{
     text-align: center;
